@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color:#f8f1e7 ;
+}
+#menu{
+    padding-left: 230px;
+}
+.head{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:#f8f1e7 ;
+}
+#head{
+    position:fixed;
+    width:100%;
+    top:0px;
+    background-color:#f8f1e7 ;
+} 
+#heading{
+    padding-left:260px;
+    padding-right:300px;
+}
+#person{
+    padding-right:30px;
+}
+h1{
+    color:#502314;
+    margin:0px 70px;
+}
+#h1{
+    font-size:4rem;
+    margin:40px 0px 10px -5px;
+    padding-left: 7px;
+}
+.b3{
+    color:white;
+    background-color:#d62300;
+    padding:10px 20px;
+    margin:0px 10px 5px 0px;
+    border:none;
+}
+.order-part{
+    margin: 20px 200px;
+}
+.main-part{
+    margin:0px 200px;
+}
+img[alt="main burger"]{
+    height: 350px;
+    width: 700px;
+    margin-bottom:10px
+}
+img[alt="burger"]{
+    border-radius:8px;
+    width: 100%;
+}
+.box1{
+    width:550px;
+    height:500px;
+    border-radius: 20px;
+    border:0px solid #f8f1e7;
+    margin: 10px;
+}
+#bgc{
+    background-color: white;
+}
+.card1{
+    padding:15px 20px;
+    color:#502314;
+}
+.b1{
+    margin-left: 350px;
+    padding: 10px 30px;
+    background-color: white;
+    margin-bottom: -20px;
+}
+.large-button{
+    margin-left: 290px;
+    padding:10px 40px;
+    margin-top: 50px;
+}
+.pickup{
+    padding: -10px 130px -10px 200px;
+    border-radius: 50px; 
+    background-color: #d62300;
+    color:white;
+    border: none;
+}
+.delivery{
+    padding: -10px 100px -10px 100px;
+    border-radius: 50px; 
+    background-color: #f8f1e7;
+    padding-right:90px;
+}
+button{
+    padding:20px 100px;
+    margin:16px 0px 0px 16px;
+    border-radius: 25px;
+}
+button:hover{
+    background-color:#eee8de;
+}
+h3,p,button{
+    margin-bottom:8px;
+}
+a{
+    color: #502314;
+}
+#last-part{
+    width:100%;
+    height:450px;
+    background-color:#eee8de;
+    margin-top: 150px;
+}
+.half{
+    width:50%;
+    height:100%;
+    float: left;
+    margin-top:-60px;
+}
+.child-half{
+    margin-left:-60px;
+}
+img[alt="last-image"]{
+    height: 500px;
+    margin-left: 180px;
+}
+.font{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.padding1{
+    padding-top:120px;
+}
+img[alt="app store"]{
+    height:70px;
+    width:180px;
+}
+#img-last{
+    padding:30px 40px 0px 80px;
+    /* padding-left: 80px;
+    padding-right: 40px;
+    padding-top: 30px; */
+}
+.last-pag{
+    color:#502314;
+    padding:30px 100px 0px 80px;
+    font-size: 1rem;
+    /* padding-top: 30px;
+    padding-left: 80px;
+    padding-right: 100px; */
+}
+#passage{
+    background-color:#502314;
+    text-align: center;
+    width:100%;
+    height:40px;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+#bg{
+    background-color: #502314;
+    color: white;
+}
+.icons_name{
+    font-size: 1rem;
+    color:#502314;
+}
+.icons{
+    padding:0px 150px;
+    color:#502314;
+}
+#last-table-margin{
+    margin-left: 50px;
+    background-color:#f8f1e7 ;
+}
+.last-table-margin{
+    position:fixed;
+    bottom:0%;
+    width:100%;
+    background-color:#f8f1e7 ;
+}
